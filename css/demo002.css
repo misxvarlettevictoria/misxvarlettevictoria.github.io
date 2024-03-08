@@ -939,11 +939,16 @@ box-shadow: 0 0 10px gray;
 
 .btnComoLlegar:hover{
   text-decoration: none;
-  background-color: #BF93B6; 
+  background-color: transparent; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
-  color:#6F7163;
+  color:#6D425E;
   height: 45px;
+  border-top: 3px solid ;
+  border-bottom: 3px solid ;
+  border-right: 3px solid ;
+  border-left: 3px solid ;
+  border-color: #6D425E;
 }
 .btnComoLlegar2{
   letter-spacing: 3px;
@@ -1035,12 +1040,12 @@ box-shadow: 0 0 10px gray;
 .btnWhatsNovios:hover{
   text-decoration:none;
   background-color: transparent;
-  color: #C19090;
+  color: #6D425E;
   border-top: 3px solid ;
   border-bottom: 3px solid ;
   border-right: 3px solid ;
   border-left: 3px solid ;
-  border-color: #C19090;
+  border-color: #6D425E;
  
 }
 
